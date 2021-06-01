@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/YTR/Study/Programming/C++/CG_Project/main.cpp
+GL/glut.h
+-
+iostream
+-
+Windows.h
+-
+cmath
+-
+vector
+-
+workpiece.h
+C:/YTR/Study/Programming/C++/CG_Project/workpiece.h
+
+C:/YTR/Study/Programming/C++/CG_Project/workpiece.h
+vector
+-
+

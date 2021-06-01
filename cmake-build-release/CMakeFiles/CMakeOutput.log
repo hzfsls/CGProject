@@ -1,0 +1,267 @@
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/YTR/Tools/MSVC/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29112 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/YTR/Tools/MSVC/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29112 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_0f1ba\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_0f1ba.dir\build.make /nologo -L                  CMakeFiles\cmTC_0f1ba.dir\build
+Building C object CMakeFiles/cmTC_0f1ba.dir/testCCompiler.c.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nmFF36.tmp
+testCCompiler.c
+Linking C executable cmTC_0f1ba.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_0f1ba.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_0f1ba.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm21.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_06894\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_06894.dir\build.make /nologo -L                  CMakeFiles\cmTC_06894.dir\build
+Building C object CMakeFiles/cmTC_06894.dir/CMakeCCompilerABI.c.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nm531.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_06894.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_06894.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_06894.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm61C.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_748d8\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_748d8.dir\build.make /nologo -L                  CMakeFiles\cmTC_748d8.dir\build
+Building CXX object CMakeFiles/cmTC_748d8.dir/testCXXCompiler.cxx.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nmAFD.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_748d8.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_748d8.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_748d8.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nmC08.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a42bc\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_a42bc.dir\build.make /nologo -L                  CMakeFiles\cmTC_a42bc.dir\build
+Building CXX object CMakeFiles/cmTC_a42bc.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nm11C4.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_a42bc.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_a42bc.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_a42bc.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm12BF.tmp
+
+
+
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/YTR/Tools/MSVC/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29112 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/YTR/Tools/MSVC/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS;/GR;/EHsc
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29112 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_8bb36\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_8bb36.dir\build.make /nologo -L                  CMakeFiles\cmTC_8bb36.dir\build
+Building C object CMakeFiles/cmTC_8bb36.dir/testCCompiler.c.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nm6CCE.tmp
+testCCompiler.c
+Linking C executable cmTC_8bb36.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_8bb36.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_8bb36.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm6F60.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_0e638\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_0e638.dir\build.make /nologo -L                  CMakeFiles\cmTC_0e638.dir\build
+Building C object CMakeFiles/cmTC_0e638.dir/CMakeCCompilerABI.c.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nm7635.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_0e638.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_0e638.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_0e638.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm775E.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_3ecef\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_3ecef.dir\build.make /nologo -L                  CMakeFiles\cmTC_3ecef.dir\build
+Building CXX object CMakeFiles/cmTC_3ecef.dir/testCXXCompiler.cxx.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nm7FCA.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_3ecef.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_3ecef.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_3ecef.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm81BF.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_9137a\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_9137a.dir\build.make /nologo -L                  CMakeFiles\cmTC_9137a.dir\build
+Building CXX object CMakeFiles/cmTC_9137a.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nm8C9B.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_9137a.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_9137a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_9137a.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm8E13.tmp
+
+
+
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/YTR/Tools/MSVC/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29112 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/YTR/Tools/MSVC/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS;/GR;/EHsc
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29112 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_f4d6a\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_f4d6a.dir\build.make /nologo -L                  CMakeFiles\cmTC_f4d6a.dir\build
+Building C object CMakeFiles/cmTC_f4d6a.dir/CMakeCCompilerABI.c.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nm5D52.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_f4d6a.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_f4d6a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_f4d6a.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm6245.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/YTR/Study/Programming/C++/CG_Project/cmake-build-release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_42a32\fast && 	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_42a32.dir\build.make /nologo -L                  CMakeFiles\cmTC_42a32.dir\build
+Building CXX object CMakeFiles/cmTC_42a32.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\85339\AppData\Local\Temp\nm7455.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_42a32.exe
+	C:\YTR\Softwares\Jetbrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_42a32.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\YTR\Tools\MSVC\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_42a32.dir\objects1.rsp @C:\Users\85339\AppData\Local\Temp\nm7782.tmp
+
+
+

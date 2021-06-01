@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/YTR/Study/Programming/C++/CG_Project/knife.h
+vector
+-
+
+C:/YTR/Study/Programming/C++/CG_Project/particleSystem.h
+vector
+-
+
+C:/YTR/Study/Programming/C++/CG_Project/workpiece.cpp
+workpiece.h
+C:/YTR/Study/Programming/C++/CG_Project/workpiece.h
+GL/glut.h
+-
+
+C:/YTR/Study/Programming/C++/CG_Project/workpiece.h
+vector
+-
+knife.h
+C:/YTR/Study/Programming/C++/CG_Project/knife.h
+particleSystem.h
+C:/YTR/Study/Programming/C++/CG_Project/particleSystem.h
+

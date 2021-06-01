@@ -1,0 +1,4 @@
+ToolSet: 16.0 (local)@C:\YTR\Tools\MSVC
+Options: msvc.arch=amd64
+
+Options:

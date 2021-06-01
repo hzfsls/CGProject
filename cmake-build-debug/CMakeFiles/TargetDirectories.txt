@@ -1,0 +1,3 @@
+C:/YTR/Study/Programming/C++/CG_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/YTR/Study/Programming/C++/CG_Project/cmake-build-debug/CMakeFiles/CG_Project.dir
+C:/YTR/Study/Programming/C++/CG_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
